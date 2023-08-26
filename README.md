@@ -1,0 +1,14 @@
+# missi_phoneext4_eea-user 13 TKQ1.220807.001 V14.0.4.0.TLMEUXM release-keys
+- manufacturer: xiaomi
+- platform: kona
+- codename: munch
+- flavor: missi_phoneext4_eea-user
+- release: 13
+- id: TKQ1.220807.001
+- incremental: V14.0.4.0.TLMEUXM
+- tags: release-keys
+- fingerprint: Redmi/munch/munch:13/RKQ1.211001.001/V14.0.4.0.TLMEUXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi_phoneext4_eea-user-13-TKQ1.220807.001-V14.0.4.0.TLMEUXM-release-keys
+- repo: redmi_munch_dump
